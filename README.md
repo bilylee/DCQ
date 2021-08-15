@@ -7,6 +7,8 @@ This repo is the official implementation for CVPR 2021 paper: Dynamic Class Queu
 
 ## News
 
+**`2021-08-14`**: We are the champion of CSIG FAT-AI 2021 masked face recognition challenge. [Details](https://mp.weixin.qq.com/s/opksaCehgTSYnkbc0GxITg)
+
 **`2021-08-03`**: Initial code release.
 
 ## Quick Start
